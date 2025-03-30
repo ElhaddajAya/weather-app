@@ -6,3 +6,5 @@ Une application météo développée avec SwiftUI, permettant d'afficher les con
 - Intégration de l'API **OpenWeatherMap**
 - Localisation en temps réel pour obtenir les données météo
 - Interface utilisateur simple et moderne en SwiftUI
+
+![ui-screenshot](/Screenshot/ui-screenshot.png)
